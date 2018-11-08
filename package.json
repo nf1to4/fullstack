@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "CRM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "keywords": [
+    "express",
+    "angular"
+  ],
+  "author": "Narek Grigoryan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6"
+  }
+}
